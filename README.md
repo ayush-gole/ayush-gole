@@ -1,13 +1,19 @@
 <h2 align="left">Hi ! My name is Ayush and I'm a computational physics student working on gravitational lensing simulation, from India.</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush-gole&label=Profile%20views&color=0e75b6&style=flat" alt="ayush-gole" /> </p>
 
+- 🔭 I’m currently working on **Gravitational Lensing Simulation**
+
+- 🌱 I’m currently learning **General Relativity**
+
+
 ###
 
-<div align="center">
+<div align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayush-gole&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
 ###
+
 
 <img align="right" height="150" src="https://assets.science.nasa.gov/content/dam/science/astro/universe/internal_resources/693/Light_Bending.gif"  />
 
