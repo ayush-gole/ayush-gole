@@ -1,9 +1,11 @@
-<h2 align="left">Hi ! My name is Ayush and I'm a computational physics student working on gravitational lensing simulation, from India.</h2>
+<h2 align="left">Hi, I’m Ayush — a Computational Physics student focused on simulation, numerical methods, and data-driven problem solving..</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush-gole&label=Profile%20views&color=0e75b6&style=flat" alt="ayush-gole" /> </p>
 
-- 🔭 I’m currently working on **Gravitational Lensing Simulation**
+- 🔭 I work on physics-based simulations (currently exploring gravitational lensing and related systems) 
+- 📊 Interested in: simulation, scientific computing, and data analysis  
+- 🌱 Currently strengthening fundamentals in computational techniques  
 
-- 🌱 I’m currently learning **General Relativity**
+I’m particularly interested in applying computational methods to real-world and research problems.
 
 
 ###
@@ -29,8 +31,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45" alt="pandas logo"  />
   <img width="19" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="45" alt="r logo"  />
-  <img width="19" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="45" alt="rstudio logo"  />
   <img width="19" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="vscode logo"  />
 </div>
