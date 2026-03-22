@@ -11,7 +11,7 @@ I’m particularly interested in applying computational methods to real-world an
 ###
 
 <div align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayush-gole&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayush-gole&cache_seconds=0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
 ###
